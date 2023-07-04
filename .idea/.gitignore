@@ -1,0 +1,4 @@
+# Default ignored files
+/plot/*
+.ipynb_checkpoints
+.idea/
